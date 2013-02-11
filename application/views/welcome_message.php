@@ -52,44 +52,7 @@
                 <a href="./index.html"><img src="images/logo.png" alt="logo"/></a>
             </div>
             <nav id="menu" class="pull-right">
-                <ul>
-                    <li><a href="./index.html" >Home</a></li>
-                    <li><a href="./about.html" class="current">Page</a>
-                        <ul>
-                            <li><a href="./about.html">About Us</a></li>
-                            <li class="last"><a href="./services.html" >Our Services</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="./portfolio2.html" >Portfolio</a>
-                        <ul>
-                            <li><a href="./portfolio2.html">Portfolio 2 col</a>
-                                <ul>
-                                    <li><a href="./portfolio2.html">Portfolio 2 Columns</a></li>
-                                    <li class="last"><a href="./portfolio2ex.html">Portfolio 2 Columns Extended</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="./portfolio3.html">Portfolio 3 col</a>
-                                <ul>
-                                    <li><a href="./portfolio3.html">Portfolio 3 Columns</a></li>
-                                    <li class="last"><a href="./portfolio3ex.html">Portfolio 3 Columns Extended</a></li>
-                                </ul>
-                            </li>
-                            <li class="last"><a href="./portfolio4.html">Portfolio 4 col</a>
-                                <ul>
-                                    <li><a href="./portfolio4.html">Portfolio 4 Columns</a></li>
-                                    <li class="last"><a href="./portfolio4ex.html">Portfolio 4 Columns Extended</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li><a href="./blog.html">Blog</a>
-                        <ul>
-                            <li><a href="./blog.html">Blog</a></li>
-                            <li class="last"><a href="./blog-single.html">Blog Single</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="./contact.html" >Contact</a></li>
-                </ul>
+               
             </nav>
         </div>
 
@@ -107,49 +70,60 @@
 <section id="container">
     <div class="container">
         <div class="row latest-blog">
-            <div class="title-divider span12"><h3>Professional Profile</h3></div>
+            <div class="title-divider span12"><h3>Background</h3>
+            	
+            	<p>
+            		
+            		Chris Dixon is a commercial solicitor based in EC2  and Essex  resident in central London. He specialises  
+            		in foreign investment into UK property . His firm ( *Kenneth Elliott and Rowe)  is rated Top Tier in Legal 500.  
+            		He is a director of and shareholder in several property investment and management companies. He was the originator
+            		 of Laworld  ( an international association of law firms ) and has worldwide legal and client  associations.
+            		  Chris also has a long term connection with China. He is a supporter of regional theatre and employment generating charities. He invests in
+            		 small scale entertainment productions ranging from opera to old time music hall. He travels regularly on business and sometimes pilots himself
+            		
+            	</p>
+            	
+            	
+            </div>
             <hr>
             <!--page-->
-            <div class="span4">
+          
+            <div class="span6">
                 <div class="tagline">
-                    <h3>Skills</h3>
-                </div>
-              
-               Work - Solicitor<br/>
-               Position - Senior Partner<br/>
-               Business - <a href="http://www.ker.co.uk">Kenneth Elliott and Rowe</a><br/>
-               Industry - Law<br/>
-            </div>
-            <div class="span4">
-                <div class="tagline">
-                    <h3>Memberships &amp; Associations</h3>
+                    <h3>Memberships &amp; Associations (past and present)</h3>
                 </div>
                
                 <ul class="list-1">
-                <li><a href="http://www.laworld.com">Laworld</a> founder member and former Chairman</li>
-                 <li>   Legal 500 – Top Tier Commercial Property Firm</li>
-<li>Member Society of Trust and Estate Practitioners (STEP) </li>
-<li>Member Legal Experts 2008</li>
-<li>Member  Labour Finance in Industry Group </li>
-<li>Bondholder West ham United plc</li>
-<li>Member Club Wembley</li>
-<li>CAA registered PPL(A)</li>
+                <li><a href="http://www.laworld.com">Laworld</a> (founder member and former Chair)</li>
+                 <li>   <a href="http://www.ker.co.uk">Kenneth Elliott and Rowe</a></li>
+<li>Society of Trust and Estate Practitioners (STEP) </li>
+<li>Labour Finance in Industry Group</li>
+<li>Lansdowne Club</li>
+<li>Queens Theatre Trust</li>
+<li>Bootstrap Company</li>
+<li>Asia House</li>
+<li>Music Hall Association</li>
+<li>Aircraft Owners and Pilots Association</li>
                 </ul>
             </div>
-            <div class="span4">
+            <div class="span6">
                 <div class="tagline">
-                    <h3>Comments</h3>
+                    <h3>Business Activities</h3>
                 </div>
-                <p>Solicitor practising in <a href="http://www.legal500.com/firms/1912-kenneth-elliott-rowe/offices/2111-romford">Legal 500</a>
-                	   recommended firm Kenneth Elliott and Rowe in Romford Essex.</p>
-                	   
-                	   <p>Excelent reputation for <a href="http://www.legal500.com/c/south-east/real-estate/commercial-property-essex#paragraph_18061">commercial property.</a></p>
-<p>Conference attendee Laworld international legal conferences: <br/>
-	
-	 	New Dehli, Cyprus, Amsterdam, Macau, Kuala Lumpur, Tehran, Manama
-	 	
-	 	</p>                
-
+                <dl class="dl-horizontal">
+              <dt>Activity</dt>  <dd>solicitor – company Director – member – consultant</dd>
+				<dt>Position</dt>  <dd>senior Partner/ managing director/director/member /consultant/producer</dd>
+				<dt>Business</dt>  <dd> <a href="http://www.ker.co.uk">Kenneth Elliott and Rowe</a> – <a href="http://www.laworld.com">Laworld</a> -  <a href="http://www.seedbedloughton.com/">EFI ( Loughton ) Ltd </a>– Abbey Park Trading Estates LLP – KTM Promotions</dd>
+				<dt>Industry</dt>  <dd>Law – Property Investment and management  – Entertainment - Charity</dd>
+				<dt>Function</dt>  <dd>Legal adviser – Investor - Managing Director – Member</dd>
+				<dt>Interests</dt>  <dd>international legal relations – social enterprise – theatre – choral music – personal flying – West Ham United</dd>
+				<dt>Business connections</dt> <dd>Hong Kong, Los Angeles, Singapore, Cyprus, Moscow, Kuala Lumpur, New Dehli, Cyprus, Tehran, Manama, Beijing, Charleston</dd>
+               <dt>Work</dt>  <dd>Solicitor</dd>
+               <dt>Position</dt>  <dd>Senior Partner</dd>
+               <dt>Business</dt>  <dd><a href="http://www.ker.co.uk">Kenneth Elliott and Rowe</a></dd>
+               <dt>Industry</dt>  <dd>Law</dd>
+               
+               </dl>
             </div>
         </div>
 
